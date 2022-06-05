@@ -1,9 +1,8 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute iruredolor in 
-reprehenderit in voluptate velitesse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat 
-cupidatat non
+We finally held our first release for this modpack! 
+As of now, modpack updates will be held rarely, 
+this is due to hold significant and effecient time
+with, instead of annoying repetitive updates but to
+experience our valuable time along. Hope you guys
+have fun! (Updates will be announced prior to
+6/5/2022)
 
